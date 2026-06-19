@@ -1,3 +1,7 @@
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upender5432-oss&show_icons=true)
+
 # Hi, I'm Prince Kumar Singh 👋
 
 ## Data Analyst | SQL | Power BI | Excel | Python
