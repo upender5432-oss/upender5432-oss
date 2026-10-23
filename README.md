@@ -24,6 +24,16 @@ I specialize in:
 
 ---
 
+## Delivery Fee Pricing Strategy Analysis
+
+Python-based A/B testing and statistical analysis project evaluating the impact of a variable, threshold-based delivery-fee strategy on customer purchasing behavior and revenue. Analyzed 18,006 transactions using Pandas, NumPy, Matplotlib, Seaborn, and SciPy. Applied Welch's t-test, Mann–Whitney U test, Levene's test, and correlation analysis to compare order volume, Average Order Value (AOV), delivery fees, and revenue between Control and Test groups.
+
+**Key Results:** 18.73% increase in orders, 8.79% increase in Average Order Value, and 21.28% increase in total revenue in the Test group, as reported in the project analysis.
+
+🔗 **Project:** https://github.com/upender5432-oss/delivery-fee-pricing-analysis
+
+--
+
 ## Tesla Stock Performance Analysis
 
 Python-based Exploratory Data Analysis (EDA) and Unsupervised Machine Learning project analyzing Tesla's historical stock market data. Used Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn to explore stock price trends, engineer features, analyze volatility, and apply K-Means, Gaussian Mixture Model (GMM), and DBSCAN clustering algorithms.
