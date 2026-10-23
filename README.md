@@ -22,6 +22,16 @@ I specialize in:
 
 # Featured Projects
 
+---
+
+## TradeWise Stock Strategy Analysis
+
+Python-based Exploratory Data Analysis (EDA) project focused on exploring stock market data and identifying trends using Pandas, NumPy, Matplotlib, and Seaborn.
+
+🔗 **Project:** https://github.com/upender5432-oss/tradewise-stock-strategy-analysis
+
+---
+
 ## Bank CRM Dashboard
 
 Power BI dashboard for customer churn analysis, customer demographics and business insights.
