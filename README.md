@@ -24,6 +24,14 @@ I specialize in:
 
 ---
 
+## Tesla Stock Performance Analysis
+
+Python-based Exploratory Data Analysis (EDA) and Unsupervised Machine Learning project analyzing Tesla's historical stock market data. Used Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn to explore stock price trends, engineer features, analyze volatility, and apply K-Means, Gaussian Mixture Model (GMM), and DBSCAN clustering algorithms.
+
+🔗 **Project:** https://github.com/upender5432-oss/tesla-stock-performance-analysis
+
+---
+
 ## TradeWise Stock Strategy Analysis
 
 Python-based Exploratory Data Analysis (EDA) project focused on exploring stock market data and identifying trends using Pandas, NumPy, Matplotlib, and Seaborn.
